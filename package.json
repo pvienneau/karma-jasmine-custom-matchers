@@ -1,0 +1,34 @@
+{
+    "name": "karma-jasmine-matchers",
+    "description": "",
+    "version": "0.0.1",
+    "author": "Patrick Vienneau",
+    "scripts": {
+        "build": "gulp browserify"
+    },
+    "dependencies": {
+        "add-matchers": "^0.4.0",
+        "browserify": "^14.0.0",
+        "gulp": "^3.9.1",
+        "gulp-rename": "^1.2.2",
+        "jasmine-expect": "3.2.0",
+        "vinyl-source-stream": "^1.1.0"
+    },
+    "homepage": "https://github.com/JamieMason/karma-jasmine-matchers",
+    "keywords": [
+        "BDD",
+        "TDD",
+        "jasmine",
+        "jasmine",
+        "jasmine-matchers",
+        "karma-adapter",
+        "karma-plugin",
+        "testing"
+    ],
+    "license": "MIT",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:JamieMason/karma-jasmine-matchers.git"
+    }
+}
